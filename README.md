@@ -2,10 +2,6 @@
 
 An end-to-end Machine Learning project that identifies potentially fraudulent credit card transactions using a Random Forest model and an interactive Streamlit dashboard.
 
-## 📊 Dashboard Preview
-
-![Credit Card Fraud Detection Dashboard](dashboard.png)
-
 ## 🚀 Features
 - Credit card fraud prediction
 - Random Forest machine learning model
